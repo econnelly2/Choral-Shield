@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.params=
+comment0.target=Customer()
+comment1.params=dataItems
+comment1.target=void\ readCustomerDetails(java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ writeDetails()
+comment3.params=
+comment3.target=java.lang.String\ getNight()
+comment4.params=
+comment4.target=int\ getNumOFTickets()
+comment5.params=
+comment5.target=java.lang.String\ getMethOfPurchase()
+numComments=6
